@@ -1,0 +1,41 @@
+01
+
+ALBERT ACEVEDO
+
+CALLE 49
+
+04146326788
+
+D
+
+18000
+111
+Luis
+Urb. Rosaleda
+2685956
+O
+285.000
+222
+Antonio
+Urb. Campo Alegre
+2589678
+D
+350.000
+333
+Carlos
+Carrera 24 c/esquina calle 15
+2528996
+D
+375.000
+444
+Kevin
+Urb. José Gil Fortoul
+2478963
+D
+325.000
+555
+José
+Urb. La Concordia
+24758789
+O
+355.000

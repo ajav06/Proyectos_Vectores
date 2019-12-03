@@ -1,0 +1,16 @@
+﻿Colocacion de Ceramicas
+75000
+Colocación de aplanado (yeso,cemento,pastas etc.)
+85000
+Pintura
+100000
+Cambio punto de agua blanca
+65000
+Impermeabilizaciones
+60000
+Acabados
+45000
+Demolición
+200000
+Colocacion de muros cualquier material
+175000
